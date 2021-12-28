@@ -1090,7 +1090,9 @@ a.graylink{
     color: #000000;
     display: inherit;
 }
-
+.textblkCol{
+    color: #000000 !important;
+}
 .card.b0{
     border: 0px;
 }
@@ -1145,7 +1147,7 @@ a.graylink{
   }
   @-webkit-keyframes textSlideTop{
     from {
-        margin-top: 206px;
+        margin-top: 214px;
     }
   
     to {
@@ -1160,12 +1162,12 @@ a.graylink{
   
     to {
       /* left: auto; */
-      height: 206px;
+      height: 214px;
     }
   }
   @-webkit-keyframes cardSlide{
     from {
-        margin-top: 206px;
+        margin-top: 214px;
     }
   
     to {
