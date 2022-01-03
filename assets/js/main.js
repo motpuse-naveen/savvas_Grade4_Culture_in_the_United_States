@@ -12,6 +12,9 @@ $(document).ready(function () {
         $('body').removeClass('show-focus-outlines');
     });
     setTimeout(function () {
+        $(".cardmarginTop").removeClass("cardmarginTop")
+    },0)
+    setTimeout(function () {
         $(".white-bg").removeClass("white-bg")
         $("body.black").removeClass("black")
     },2000)

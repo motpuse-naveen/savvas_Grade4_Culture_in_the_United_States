@@ -341,10 +341,15 @@ body, html {
     border-top-right-radius: 9px;
 }
 .card-cover-img.FixHeight{
-    height: 206px;
+    height: 214px;
 }
 .card-cover-img.MinHeight{
     min-height: 214px;
+}
+.cardmarginTop{
+    position: relative;
+    margin-top: 214px;
+    display: none;
 }
 
 .card-cover-img.img1 {
