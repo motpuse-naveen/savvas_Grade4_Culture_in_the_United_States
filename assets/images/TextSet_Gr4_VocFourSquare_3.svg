@@ -1,44 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
-<style type="text/css">
-	.st0{font-family:sans-serif; font-weight:600; text-align:left;}
-	.st1{font-size:14px; font-family:sans-serif; font-weight:600; text-align:left;}
-	.st2{font-family:sans-serif; font-weight:600; text-align:left;}
-	.st3{font-size:28px;}
-	.st4{fill:#FFFFFF;}
-	.st5{fill:none;stroke:#000000;stroke-width:1.0616;stroke-miterlimit:10;}
-	.st6{stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
-	.st7{fill:#FFFFFF;stroke:#000000;stroke-width:1.0616;stroke-miterlimit:10;}
-	.st8{display:none;fill:#FFFFFF;stroke:#000000;stroke-width:1.1312;stroke-miterlimit:10;}
-	.st9{fill:#FFFFFF;stroke:#000000;stroke-width:1.1312;stroke-miterlimit:10;}
-	.st10{font-size:24px;}
-</style>
-<g id="Layer_1">
-	<text transform="matrix(1 0 0 1 40.5986 58.3419)" class="st0 st1">Name: </text>
-	<text transform="matrix(1 0 0 1 140.186 109.4715)" class="st2 st3">Vocabulary Four-Square</text>
-	<g>
+
+<svg version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:bx="https://boxy-svg.com" viewBox="0 0 580.967 454.157">
+	<defs></defs>
+	<g id="Layer_1" transform="matrix(1.042124, 0, 0, 0.707937, -30.439873, -86.534027)" style="">
 		<g>
-			<path class="st4" d="M553.91,740.34H58.09c-9.66,0-17.49-7.83-17.49-17.49v-563.2c0-9.66,7.83-17.49,17.49-17.49h495.82
-				c9.66,0,17.49,7.83,17.49,17.49v563.2C571.4,732.51,563.57,740.34,553.91,740.34z"/>
-			<path class="st5" d="M553.91,740.34H58.09c-9.66,0-17.49-7.83-17.49-17.49v-563.2c0-9.66,7.83-17.49,17.49-17.49h495.82
-				c9.66,0,17.49,7.83,17.49,17.49v563.2C571.4,732.51,563.57,740.34,553.91,740.34z"/>
+			<g>
+				<path class="st5" d="M 553.91 740.34 L 58.09 740.34 C 48.43 740.34 43.958 726.87 43.958 717.21 L 44.252 164.971 C 44.252 155.311 48.43 142.16 58.09 142.16 L 553.91 142.16 C 563.57 142.16 571.4 149.99 571.4 159.65 L 570.279 718.095 C 570.279 727.755 563.57 740.34 553.91 740.34 Z" style="fill: none; stroke: rgb(0, 0, 0); stroke-miterlimit: 10; stroke-width: 1.0616px;"></path>
+			</g>
 		</g>
 	</g>
-	<line class="st6" x1="91.27" y1="62.62" x2="252.53" y2="62.62"/>
-</g>
-<g id="Layer_2">
-	<line class="st7" x1="306" y1="142.16" x2="306" y2="740.34"/>
-	<line class="st7" x1="40.6" y1="441.25" x2="571.4" y2="441.25"/>
-	<circle class="st8" cx="306" cy="451.25" r="85.43"/>
-	<g id="Layer_3">
-		<circle class="st9" cx="306" cy="441.25" r="85.43"/>
+	<g id="Layer_2" transform="matrix(1.036456, 0, 0, 0.705493, -27.052935, -85.464043)" style="">
+		<line class="st7" x1="306" y1="142.16" x2="306" y2="740.34" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0); stroke-miterlimit: 10; stroke-width: 1.0616px;"></line>
+		<line class="st7" x1="40.6" y1="441.25" x2="571.4" y2="441.25" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0); stroke-miterlimit: 10; stroke-width: 1.0616px;"></line>
+		<circle class="st8" cx="306" cy="451.25" r="85.43" style="display: none; fill: rgb(255, 255, 255); perspective-origin: 50% 50%; stroke: rgb(0, 0, 0); stroke-miterlimit: 10; stroke-width: 1.1312px;"></circle>
 	</g>
-	<text transform="matrix(1 0 0 1 276.0884 446.0146)" class="st2 st10">region</text>
-	<text transform="matrix(1 0 0 1 58.3523 172.1578)"><tspan x="0" y="0" class="st0 st1">Definition: region: an</tspan><tspan x="0" y="16.8" class="st0 st1">area in a country</tspan></text>
-	<text transform="matrix(1 0 0 1 58.3523 697.1382)"><tspan x="0" y="0" class="st0 st1">Synonym / Antonym:</tspan><tspan x="0" y="16.8" class="st0 st1">synonym – area</tspan></text>
-	<text transform="matrix(1 0 0 1 430.4914 172.1578)"><tspan x="-30.27" y="0" class="st0 st1">Sentence: I live in</tspan><tspan x="-30.27" y="16.8" class="st0 st1">the Midwest region of</tspan><tspan x="-30.27" y="33.6" class="st0 st1">the United States.</tspan></text>
-	<text transform="matrix(1 0 0 1 414.9367 697.1382)"><tspan x="0" y="0" class="st0 st1">Example: Northeast</tspan><tspan x="-1.2" y="16.8" class="st0 st1">of the United States</tspan></text>
-</g>
+	<circle style="fill:#FFFFFF;stroke: rgb(0, 0, 0);" transform="matrix(1.040713, 0, 0, 1.017651, -107.000923, -110.821808)" cx="380.65" cy="329.699" r="81.701"></circle>
+	<text style="fill: rgb(51, 51, 51); font-family:sans-serif; font-size: 16px; font-weight: 700; white-space: pre;" transform="matrix(1, 0, 0, 1, 0, 5)">
+		<tspan x="29.386" y="47.132">Definition: region: an</tspan>
+		<tspan x="29.386" dy="1.2em">area in a country</tspan>
+	</text>
+	<text style="fill: rgb(51, 51, 51); font-family:sans-serif; font-size: 18px; font-weight: 700; white-space: pre;" x="256.397" y="233.513">region</text>
+	<text style="fill: rgb(51, 51, 51); font-family:sans-serif; font-size: 16px; font-weight: 700; white-space: pre;" transform="matrix(1, 0, 0, 1, -37.422329, 2.536905)">
+		<tspan x="344.107" y="51.056">Sentence: I live in</tspan>
+		<tspan x="344.107" dy="1.2em">the Midwest region of</tspan>
+		<tspan x="344.107" dy="1.2em">the United States.</tspan>
+	</text>
+	<text style="fill: rgb(51, 51, 51); font-family:sans-serif; font-size: 16px; font-weight: 700; white-space: pre;" transform="matrix(1, 0, 0, 1, -185, 60)">
+		<tspan x="214.554" y="318">Synonym / Antonym:</tspan>
+		<tspan x="214.554" dy="1.2em">synonym – area</tspan>
+	</text>
+	<text style="fill: rgb(51, 51, 51); font-family:sans-serif; font-size: 16px; font-weight: 700; white-space: pre;" transform="matrix(1, 0, 0, 1, 4, 30)">
+		<tspan x="304.111" y="350.208">Example: Northeast</tspan>
+		<tspan x="304.111" dy="1.2em">of the United States</tspan>
+	</text>
+
 </svg>
